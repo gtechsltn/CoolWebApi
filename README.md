@@ -1,4 +1,7 @@
 # What every ASP.NET Core Web API project needs
+- .NET 8.0
+- C# 12 (Primary constructors)
+- C# 10 (Global using directives)
 - [Serilog](https://dev.to/moesmp/what-every-asp-net-core-web-api-project-needs-part-1-serilog-o5a)
 - [API versioning and Swagger](https://dev.to/moesmp/what-every-asp-net-core-web-api-project-needs-part-2-api-versioning-and-swagger-3nfm)
 - [Exception handling middleware](https://dev.to/moesmp/what-every-asp-net-core-web-api-project-needs-part-3-exception-handling-middleware-3nif)
